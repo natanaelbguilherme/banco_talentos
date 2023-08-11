@@ -1,7 +1,7 @@
 <template>
   <nav>
     <ul class="menu">
-        
+      
       <router-link to="/" class="item-menu">
         <li>
           <img width="50" src="https://img.icons8.com/ios-filled/50/home.png" alt="home" />
@@ -22,6 +22,7 @@
           <h2>Sobre</h2>
         </li>
       </router-link>
+
     </ul>
   </nav>
 </template>
